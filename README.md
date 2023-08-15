@@ -1,2 +1,2 @@
-# Data-Visualization---EDA
-Investigations on data
+# Data-Analysis_Finance_Data
+Investigations on Finance data
